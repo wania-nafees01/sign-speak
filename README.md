@@ -129,15 +129,6 @@ The developed prototype successfully recognized **six selected sign-language ges
 
 `Python` · `C/C++` · `Machine Learning` · `TensorFlow Lite` · `ESP32` · `Sensor Fusion` · `Embedded Systems` · `IoT` · `Wearable Computing`
 
-## Project Highlights
-
-* Wearable and portable design
-* Multi-sensor data fusion
-* Machine-learning-based gesture recognition
-* Embedded AI deployment
-* Real-time gesture-to-speech conversion
-* Custom hardware integration
-
 ## Future Work
 
 Future development could focus on:
