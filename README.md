@@ -2,13 +2,70 @@
 
 > A wearable assistive-technology project that translates selected sign-language gestures into speech using sensor fusion, embedded systems, and machine learning.
 
-## 📌 Overview
+## Project Highlights
+
+- Wearable smart-glove prototype for sign-language recognition
+- Multi-sensor data acquisition using flex sensors and an IMU
+- Sensor-fusion-based gesture classification
+- Lightweight machine-learning model for embedded deployment
+- Real-time gesture-to-speech conversion
+- Designed with Edge AI and assistive-technology applications in mind
+  
+## Overview
 
 **SIGN SPEAK** is a smart-glove prototype designed to help bridge communication between sign-language users and people who may not understand sign language.
 
 The system combines wearable sensors, embedded processing, machine learning, and audio output to recognize selected hand gestures and convert them into corresponding spoken phrases in real time.
 
-## 🎯 Objectives
+## Prototype & Demonstration
+
+### Final Prototype
+
+<p align="center">
+  <img src="assets/final-prototype.jpeg" alt="SIGN SPEAK Final Prototype" width="650">
+</p>
+
+<p align="center">
+  <em>Final prototype of the SIGN SPEAK smart glove.</em>
+</p>
+
+### Gesture Recognition Demonstration
+
+The following examples demonstrate selected gesture inputs and their corresponding recognized outputs from the developed system.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/gesture-output1.jpeg" width="350"><br>
+      <em>Gesture Output 1</em>
+    </td>
+    <td align="center">
+      <img src="assets/gesture-output2.jpeg" width="350"><br>
+      <em>Gesture Output 2</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/gesture-output3.jpeg" width="350"><br>
+      <em>Gesture Output 3</em>
+    </td>
+    <td align="center">
+      <img src="assets/gesture-output4.jpeg" width="350"><br>
+      <em>Gesture Output 4</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/gesture-output5.jpeg" width="350"><br>
+      <em>Gesture Output 5</em>
+    </td>
+    <td align="center">
+      &nbsp;
+    </td>
+  </tr>
+</table>
+
+## Objectives
 
 * Develop a wearable glove for sign-language gesture recognition
 * Capture hand and motion information using multiple sensors
@@ -17,7 +74,7 @@ The system combines wearable sensors, embedded processing, machine learning, and
 * Perform real-time inference on a microcontroller
 * Convert recognized gestures into audible speech
 
-## 🧠 System Concept
+## System Concept
 
 The overall system follows a sensor-to-speech pipeline:
 
@@ -25,7 +82,7 @@ The overall system follows a sensor-to-speech pipeline:
 
 The glove captures changes in finger movement and hand orientation through multiple sensors. The collected information is processed and classified by a machine-learning model running within the embedded system.
 
-## 🔧 Hardware
+## Hardware
 
 The prototype integrates:
 
@@ -37,7 +94,7 @@ The prototype integrates:
 * Rechargeable power source
 * Custom-designed PCB
 
-## 🤖 Machine Learning
+## Machine Learning
 
 A lightweight machine-learning approach was developed for real-time gesture classification and embedded deployment.
 
@@ -53,7 +110,7 @@ The project involved:
 
 The final system was designed with resource-constrained embedded hardware in mind.
 
-## 📊 Results
+## Results
 
 The developed prototype successfully recognized **six selected sign-language gestures** and converted the recognized gestures into corresponding audio output.
 
@@ -70,11 +127,11 @@ The developed prototype successfully recognized **six selected sign-language ges
 
 > Reported results are based on the final project evaluation and experimental testing.
 
-## 🖥️ Technologies
+## Technologies
 
 `Python` · `C/C++` · `Machine Learning` · `TensorFlow Lite` · `ESP32` · `Sensor Fusion` · `Embedded Systems` · `IoT` · `Wearable Computing`
 
-## 🧩 Project Highlights
+## Project Highlights
 
 * Wearable and portable design
 * Multi-sensor data fusion
@@ -83,11 +140,7 @@ The developed prototype successfully recognized **six selected sign-language ges
 * Real-time gesture-to-speech conversion
 * Custom hardware integration
 
-## 📷 Prototype
-
-Project photographs, system diagrams, and demonstration material will be added here to document the development and final prototype.
-
-## 🔬 Future Work
+## Future Work
 
 Future development could focus on:
 
@@ -99,7 +152,7 @@ Future development could focus on:
 * Developing a more compact and ergonomic hardware design
 * Integrating additional communication and accessibility features
 
-## 👩‍💻 Project Contribution
+## Project Contribution
 
 This project involved interdisciplinary work across:
 
@@ -111,7 +164,7 @@ This project involved interdisciplinary work across:
 * Hardware-software integration
 * Real-time system development
 
-## 🔐 Intellectual Property Notice
+## Intellectual Property Notice
 
 This repository is intended for **academic and portfolio demonstration purposes**.
 
@@ -119,7 +172,7 @@ Detailed source code, raw datasets, trained model files, calibration parameters,
 
 **© 2026 SIGN SPEAK Project. All rights reserved.**
 
-## 📚 Project Status
+## Project Status
 
 **Completed Academic Project**
 
@@ -127,6 +180,6 @@ The prototype was developed and evaluated as a final-year engineering project.
 
 ---
 
-### 👩‍🔬 Areas of Interest
+### Areas of Interest
 
 **Artificial Intelligence · Machine Learning · Embedded Systems · IoT · Automation · Assistive Technology**
