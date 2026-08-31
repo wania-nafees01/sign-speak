@@ -22,7 +22,7 @@ The system combines wearable sensors, embedded processing, machine learning, and
 ### Final Prototype
 
 <p align="center">
-  <img src="assets/final-prototype.jpeg" alt="SIGN SPEAK Final Prototype" width="650">
+  <img src="assets/final-prototype.jpeg" alt="SIGN SPEAK Final Prototype" width="450">
 </p>
 
 <p align="center">
@@ -31,37 +31,35 @@ The system combines wearable sensors, embedded processing, machine learning, and
 
 ### Gesture Recognition Demonstration
 
-The following examples demonstrate selected gesture inputs and their corresponding recognized outputs from the developed system.
+The following examples show selected gesture inputs and their corresponding recognized outputs from the developed system.
 
 <table>
   <tr>
     <td align="center">
-      <img src="assets/gesture-output1.jpeg" width="350"><br>
+      <img src="assets/gesture-output1.jpeg" width="250"><br>
       <em>Gesture Output 1</em>
     </td>
     <td align="center">
-      <img src="assets/gesture-output2.jpeg" width="350"><br>
+      <img src="assets/gesture-output2.jpeg" width="250"><br>
       <em>Gesture Output 2</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/gesture-output3.jpeg" width="350"><br>
+      <img src="assets/gesture-output3.jpeg" width="250"><br>
       <em>Gesture Output 3</em>
     </td>
     <td align="center">
-      <img src="assets/gesture-output4.jpeg" width="350"><br>
+      <img src="assets/gesture-output4.jpeg" width="250"><br>
       <em>Gesture Output 4</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/gesture-output5.jpeg" width="350"><br>
+      <img src="assets/gesture-output5.jpeg" width="250"><br>
       <em>Gesture Output 5</em>
     </td>
-    <td align="center">
-      &nbsp;
-    </td>
+    <td align="center"></td>
   </tr>
 </table>
 
